@@ -39,12 +39,12 @@ The NLP pipeline includes the following steps:
 
 Text data is transformed into numerical feature vectors using TF-IDF and then used to train a classification model.
 
+  
 ---
 
 ## Model
 
-The classification model is implemented using logistic regression from  
-:contentReference[oaicite:1]{index=1}.
+The classification model is implemented using Logistic Regression
 
 The model learns patterns in legal language that correspond to different document types.
 
@@ -68,7 +68,6 @@ NDA
 
 - Python
 - pandas
-- :contentReference[oaicite:2]{index=2}
 - TF-IDF Vectorization
 
 ---
@@ -92,8 +91,4 @@ Additionally, we could also use deep learning NLPs more suitable for smaller dat
 
 
 
----
-
-## Author
-
-Machine learning and NLP portfolio project demonstrating document classification using natural language processing techniques.
+Legal Text → NLP Processing → Feature Extraction → Classification Model → Predicted Document Type
