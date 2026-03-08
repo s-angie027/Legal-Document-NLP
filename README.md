@@ -91,4 +91,5 @@ Additionally, we could also use deep learning NLPs more suitable for smaller dat
 
 
 
-Legal Text → NLP Processing → Feature Extraction → Classification Model → Predicted Document Type
+
+
